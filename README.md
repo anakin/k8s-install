@@ -14,5 +14,8 @@
 
 所有操作使用root用户完成。
 
+### 二进制文件下载地址
+[网盘](https://pan.baidu.com/s/1mGt4nPJHfQs6Zjdi1xvFTg) 提取码: uz1n 
+
 ## 操作步骤
 请参考我的[Blog](https://anakin.github.io/tags/kubernetes/)
